@@ -41,7 +41,7 @@
 |-------|------|----------|
 | main | 🟢 | 等待任务 |
 | research | 🟢 | 等待任务 |
-| worker | 🟢 | 等待任务 |
+| worker | 🟡 开发中 | OpenCode Session CLI 工具 |
 | learning | 🟢 | 等待任务 |
 | designer | 🟢 | 等待任务 |
 | summarizer | 🟢 | 等待任务 |
@@ -51,4 +51,4 @@
 ## 📌 看板地址
 https://lavender0225.github.io/openclaw-board/BOARD.html
 
-*最后更新: 2026-03-15 10:00*
+*最后更新: 2026-03-16 17:00*

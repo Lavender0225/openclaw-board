@@ -1,0 +1,19 @@
+# 敏感信息
+discord.tokens
+*.tokens
+**/discord.tokens
+
+# 本地状态
+.DS_Store
+.openclaw/
+.task-id-counter
+BOARD.md.bak
+
+# 输出目录
+output/
+
+# 记忆文件（包含私人数据）
+memory/
+
+# 知识库（可能包含敏感信息）
+知识库/

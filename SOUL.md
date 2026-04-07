@@ -86,6 +86,14 @@ bash ~/.openclaw/knowledge/scripts/lint.sh
 - 学习笔记 → `wiki/summaries/` 或 `wiki/concepts/`
 - 所有 wiki 写入必须遵守 SCHEMA.md
 
+### 📚 知识库沉淀规则（main 专属）
+
+作为总管，确保团队产出沉淀到知识库：
+
+1. **派任务时**：在任务描述末尾加一句“完成后请沉淀到知识库（遵守 SCHEMA.md）”
+2. **收产出时**：检查是否已沉淀，没有则提醒 Agent 补上
+3. **定期 Review**：心跳时偶尔跑一下 `bash ~/.openclaw/knowledge/scripts/lint.sh` 检查健康
+
 ## 排错方法论
 遇到问题时按这个顺序来：
 1. 先查状态/日志，不要猜
